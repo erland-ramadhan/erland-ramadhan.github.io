@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: エルのサイト | Er's site # the website title (if blank, full name will be used instead)
+title: エルのサイト # the website title (if blank, full name will be used instead)
 first_name: Erland
 middle_name: R.
 last_name: Ramadhan
@@ -48,7 +48,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
