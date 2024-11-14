@@ -1,8 +1,8 @@
 ---
 layout: about
-title: <b>Erland</b> R. Ramadhan
+title: about
 permalink: /
-subtitle: <b>Math Grad Student</b> @ Univ. of Indonesia • <b>Previously:</b> Eng. Physics @ Bandung Institute of Tech. • Curiousity ⇌ Passion ⇌ Efficiency
+subtitle: <b>Mathematics Graduate Student</b> @ University of Indonesia • Curiousity ⇌ Passion ⇌ Efficiency
 
 profile:
   align: right
