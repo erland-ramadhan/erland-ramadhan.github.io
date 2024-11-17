@@ -91,46 +91,32 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Hands-on Introduction to Linux Commands and Shell Scripting",
+      "date": "2022-05-22",
+      "issuer": "IBM",
+      "url": "https://coursera.org/verify/KSQA2QUW7A72",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Python for Data Science, AI & Development",
+      "date": "2022-06-06",
+      "issuer": "IBM",
+      "url": "https://coursera.org/verify/JB5EAFVP74DZ",
+      "icon": "fa-solid fa-file"
+    },
+    {
+      "name": "Data Analysis with Python",
+      "date": "2022-10-24",
+      "issuer": "IBM",
+      "url": "https://coursera.org/verify/4JF9X3DJ9X7P",
+      "icon": "fa-solid fa-folder"
+    },
+    {
+      "name": "Databases and SQL for Data Science with Python",
+      "date": "2022-10-29",
+      "issuer": "IBM",
+      "url": "https://coursera.org/verify/KBPR95FUJPM7",
+      "icon": "fa-solid fa-folder-open"
     }
   ],
   "publications": [
