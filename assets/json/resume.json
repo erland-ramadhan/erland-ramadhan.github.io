@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Erland Rachmad Ramadhan",
-    "label": "Passionate and Efficient Data Science Specialist",
+    "label": "Passionate and Efficient Data Science Practicioner",
     "image": "",
     "email": "erland.ramadhan@icloud.com",
     "phone": "(+62) 897 2323845",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Physics",
-      "icon": "fa-solid fa-sparkle",
+      "icon": "fa-solid fa-keyboard",
       "keywords": [
         "Classical Mechanics",
         "Electromagnetism",
