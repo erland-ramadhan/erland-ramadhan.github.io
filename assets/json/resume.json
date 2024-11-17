@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Erland Rachmad Ramadhan",
-    "label": "Mathematics Graduate Students",
+    "label": "Passionate and Efficient Data Science Specialist",
     "image": "",
     "email": "erland.ramadhan@icloud.com",
     "phone": "(+62) 897 2323845",
     "url": "",
-    "summary": "Whatever",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "16144",
@@ -64,7 +64,7 @@
       "area": "Information Science",
       "studyType": "MS (Withdraw)",
       "startDate": "2019-10-01",
-      "endDate": "",
+      "endDate": "2020-09-30",
       "score": "",
       "courses": ["Analysis for Information Science", "Discrete Signal Processing", "Information Theory"]
     },
