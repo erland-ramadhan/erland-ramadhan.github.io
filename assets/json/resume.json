@@ -58,17 +58,6 @@
       "courses": ["Matrix Theory and Linear Algebra", "Data Science Statistics", "Advanced Computing and Big Data", "Data Science Computing", "Advanced Data Exploration and Visualization", "Advanced Machine Learning", "Applied Deep Learning"]
     },
     {
-      "institution": "Japan Advanced Institute of Science and Technology",
-      "location": "Nomi, Japan",
-      "url": "",
-      "area": "Information Science",
-      "studyType": "MS (Withdraw)",
-      "startDate": "2019-10-01",
-      "endDate": "2020-09-30",
-      "score": "",
-      "courses": ["Analysis for Information Science", "Discrete Signal Processing", "Information Theory"]
-    },
-    {
       "institution": "Bandung Institute of Technology",
       "location": "Bandung, Indonesia",
       "url": "",
@@ -85,7 +74,7 @@
       "title": "SAKURA Exchange Program in Science Scholarship",
       "date": "2018-10-21",
       "awarder": "Japan Science and Technology Agency (JST)",
-      "url": "https://www.icloud.com/iclouddrive/010eYI7vns8Hbho2sBN_0qFNQ#capaian_A_3",
+      "url": "",
       "summary": "The Sakura Science Exchange Program by JST invites young talents worldwide to Japan for short-term visits, fostering international collaboration in science, technology, and culture."
     }
   ],
@@ -125,14 +114,14 @@
       "publisher": "Inorganic Chemistry Frontiers",
       "releaseDate": "2020-07-27",
       "url": "http://dx.doi.org/10.1039/D0QI00682C",
-      "summary": "Developed a novel synthesis method for NiO with dominant (111) facets, achieving superior nitrogen oxide (NOx) gas sensing and photocatalytic performance. Demonstrated a 16.5% response to 300 ppb NOx and over 50% deNOx photocatalytic efficiency under UV light. Computational analysis revealed that abundant Ni atoms on the (111) facet enhance NO adsorption and promote molecular decomposition, aligning with experimental findings."
+      "summary": "Whatever"
     },
     {
       "name": "Kolmogorov-Arnold Informed Neural Networks: Advancing AI in Epidemiological Modeling",
       "publisher": "International Symposium on Biomathematics",
       "releaseDate": "2024-07-11",
       "url": "",
-      "summary": "Developed Kolmogorov-Arnold-Informed Neural Networks (KINNs) for epidemiological modeling, utilizing the interpretability and efficiency of Kolmogorov-Arnold Networks (KANs). Demonstrated higher prediction accuracy, faster convergence, and improved parameter estimation compared to Physics-Informed Neural Networks (PINNs), effectively addressing multi-scale outbreaks, nonlinear infection dynamics, and diverse population distributions. This research enhances the precision and efficiency of infectious disease modeling."
+      "summary": "Whatever"
     }
   ],
   "skills": [
