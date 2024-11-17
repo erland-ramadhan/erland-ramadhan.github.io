@@ -164,15 +164,31 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Mathematics",
+      "icon": "fa-solid fa-cube",
       "keywords": [
+        "Calculus",
+        "Linear Algebra",
+        "Real Analysis",
+        "Complex Analysis",
+        "Abstract Algebra",
+        "Combinatorics",
+        "Geometry",
+        "Topology",
+        "Probability Theory",
+        "Differential Equations",
+        "Numerical Analysis"
+      ]
+    },
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-sparkle",
+      "keywords": [
+        "Classical Mechanics",
+        "Electromagnetism",
         "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Thermal Physics",
+        "Solid State Physics"
       ]
     }
   ],
