@@ -185,7 +185,61 @@
         "K-Nearest Neighbors (KNN)",
         "Naive Bayes"
       ]
-    }
+    },
+    {
+      "name": "Unsupervised Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "K-Means",
+        "Hierarchical Clustering",
+        "DBSCAN",
+        "Principal Component Analysis (PCA)",
+        "t-SNE"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Convolutional Neural Networks (CNNs)",
+        "Recurrent Neural Networks (RNNs)",
+        "Long Short-Term Memory (LSTM)",
+        "Autoencoders",
+        "Generative Adversarial Networks (GANs)"
+      ]
+    },
+    {
+      "name": "Optimization Algorithms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Gradient Descent",
+        "Stochastic Gradient Descent (SGD)",
+        "Adam Optimizer",
+        "Genetic Algorithms"
+      ]
+    },
+    {
+      "name": "Time Series and Forecasting",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "AutoRegressive Integrated Moving Average (ARIMA)",
+        "Seasonal ARIMA (SARIMA)"
+      ]
+    },
+    {
+      "name": "Graph Algorithms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Graph Neural Networks (GNNs)",
+        "Breadth-First Search (BFS)",
+        "Depth-First Search (DFS)"
+      ]
+    },
   ],
   "languages": [
     {
