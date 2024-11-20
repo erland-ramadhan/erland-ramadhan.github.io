@@ -17,9 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 Thanks for stopping by 🙏🏻 — let's connect!
 
-I’m a [Mathematics](math.ui.ac.id) graduate student at the [University of Indonesia](ui.ac.id), specializing in data science and machine learning applications. With a strong foundation in mathematics and engineering, my work focuses on optimizing algorithms and delivering data-driven solutions to complex problems.
+I’m a [Mathematics](https://math.ui.ac.id) graduate student at the [University of Indonesia](https://ui.ac.id), specializing in data science and machine learning applications. With a strong foundation in mathematics and engineering, my work focuses on optimizing algorithms and delivering data-driven solutions to complex problems.
 
-Currently, my research explores the use of Kolmogorov-Arnold Networks for portfolio optimization, leveraging historical financial data to develop models for long-term investment strategies. My interdisciplinary background also includes material informatics, particularly investigating the stability of advanced battery systems during my undergraduate studies at the [Bandung Institute of Technology](itb.ac.id).
+Currently, my research explores the use of Kolmogorov-Arnold Networks for portfolio optimization, leveraging historical financial data to develop models for long-term investment strategies. My interdisciplinary background also includes material informatics, particularly investigating the stability of advanced battery systems during my undergraduate studies at the [Bandung Institute of Technology](https://itb.ac.id).
 
 Beyond academics, I have contributed to projects in epidemiological modeling and resource-efficient AI systems. I am passionate about applying computational tools to real-world challenges, particularly in science and technology.
 
